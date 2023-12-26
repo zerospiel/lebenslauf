@@ -54,7 +54,7 @@
   <tr>
     <td colspan="2">
       <ul>
-        <li>Implemented projects in Golang and conducted research and development for various projects and technologies (multi-tenant S3-compatible object storage, multi-tenant Kubernetes) </li>
+        <li>Conducted research and development for Golang-based services: multi-tenant S3-compatible object storage and multi-tenant Kubernetes </li>
         <li>Worked on diverse software development tasks.</li>
       </ul>
       <i>Skills</i>: S3 Protocol • Go • Kubernetes
@@ -114,13 +114,12 @@
     <td colspan="2">
       <ul>
         <li>Implemented and tested various business ideas in PoC, leading to successful product development with optimizations, code refactoring, improved user experience, and modern pattern implementation</li>
-        <li>Served as a development "SWAT" team member, addressing critical challenges and driving efficient solutions</li>
         <li>Implemented over 20 business services, leveraging tools such as: PostgreSQL, Kafka, Redis,Memcached, ETCD</li>
-        <li>Spearheaded significant projects with the team, resulting in successful releases and profitable outcomes, including:
+        <li>Delivered significant projects with the team, resulting in successful releases and profitable business outcomes, including:
           <ul>
-            <li>AB tests: Integrated hundreds of company's business managers, who conducted thousands of experiments, and potentially saved and earned tens of millions</li>
-            <li>Recommendations system: Developed a crucial component for e-commerce businesses</li>
-            <li>Referral program: Created and managed two versions, attracting hundreds of thousands of users and generating millions in profits</li>
+            <li>AB tests: The service involved hundreds of company's business managers, who conducted thousands of experiments, made decisions depending on instrumented metrics, and potentially saved and earned tens of millions</li>
+            <li>Recommendations system: Developed a crucial component for e-commerce businesses based on raw ML data</li>
+            <li>Referral program: Created and managed two versions of the service, which attracted hundreds of thousands of users, generating millions in profits</li>
             <li>Several other company-specific business services</li>
           </ul>
         </li>
@@ -210,7 +209,6 @@
 
 <div style="line-height: normal; font-size: 9.75px">
 
-- Hobbies: infra-related coding, mechanical keyboards, HOMM 3
-- Languages: English (full professional proficiency), German (elementary), Russian (native), 日本語 (elementary)
+- Languages: English (full professional proficiency/B2), German (elementary/A2), Russian (native/C2), 日本語 (elementary/A1)
 
 </div>
