@@ -25,11 +25,11 @@
   <tr">
     <td colspan="2">
       <ul>
-        <li>Designed architecture components for Mirantis Container Cloud (Openstack, vSphere, bare metal providers)</li>
+        <li>Designed architecture components for Mirantis Container Cloud (OpenStack, vSphere, bare metal providers)</li>
         <li>Developed Kubernetes controllers to enhance deployment efficiency and deliver new features</li>
         <li>Collaborated closely with designers and frontend engineers to ensure a seamless user experience</li>
         <li>Conducted comprehensive testing (from unit to end-to-end) to validate functionality</li>
-        <li>Refactored code and instrumentation to increase effeciency of development processes</li>
+        <li>Refactored code and instrumentation to increase the efficiency of development processes</li>
       </ul>
       <i>Skills</i>: Cloud Development • Cloud Applications • Go • Kubernetes
     </td>
@@ -54,8 +54,8 @@
   <tr>
     <td colspan="2">
       <ul>
-        <li>Conducted research and development for Golang-based services: multi-tenant S3-compatible object storage and multi-tenant Kubernetes </li>
-        <li>Worked on diverse software development tasks.</li>
+        <li>Conducted research and development for Golang-based services: multi-tenant S3-compatible object storage and multi-tenant Kubernetes</li>
+        <li>Worked on diverse software development tasks</li>
       </ul>
       <i>Skills</i>: S3 Protocol • Go • Kubernetes
     </td>
@@ -87,7 +87,7 @@
           <ul>
             <li>Developed and adopted an internal corporate service discovery and control plane</li>
             <li>Developed a PoC and an early version of a managed Ceph front-end service independently</li>
-            <li>Implemented L7 load balancing with various algorithms on the client-side</li>
+            <li>Implemented L7 load balancing with various algorithms on the client side</li>
             <li>Independently implemented and adopted xDS (Envoy API) within an internal corporate control plane</li>
             <li>Automated Protobuf workflows and simplified end-user interactions independently</li>
             <li>Implemented and supported platform libraries (caches, Redis, Postgres, middleware, metrics, etc.) and SDKs</li>
@@ -95,7 +95,7 @@
             <li>Worked with tracing tools like OpenTracing, Jaeger, and OpenTelemetry to some extent</li>
           </ul>
         </li>
-        <li>Utilized additional tools and technologies, including helm charts, GitLab for CI/CD, and performed Kubernetes tuning</li>
+        <li>Utilized additional tools and technologies, including helm charts, and GitLab for CI/CD, and performed Kubernetes tuning</li>
         <li>Led a team of three members (senior, middle, and trainee) for several months</li>
       </ul>
       <i>Skills</i>: Platform Development • Site Reliability Engineering • Ceph • Protocol Buffers • Kubernetes • gRPC
@@ -114,10 +114,10 @@
     <td colspan="2">
       <ul>
         <li>Implemented and tested various business ideas in PoC, leading to successful product development with optimizations, code refactoring, improved user experience, and modern pattern implementation</li>
-        <li>Implemented over 20 business services, leveraging tools such as: PostgreSQL, Kafka, Redis,Memcached, ETCD</li>
+        <li>Implemented over 20 business services, leveraging tools such as PostgreSQL, Kafka, Redis, Memcached, ETCD</li>
         <li>Delivered significant projects with the team, resulting in successful releases and profitable business outcomes, including:
           <ul>
-            <li>AB tests: The service involved hundreds of company's business managers, who conducted thousands of experiments, made decisions depending on instrumented metrics, and potentially saved and earned tens of millions</li>
+            <li>AB tests: The service involved hundreds of company business managers, who conducted thousands of experiments, made decisions depending on instrumented metrics, and potentially saved and earned tens of millions</li>
             <li>Recommendations system: Developed a crucial component for e-commerce businesses based on raw ML data</li>
             <li>Referral program: Created and managed two versions of the service, which attracted hundreds of thousands of users, generating millions in profits</li>
             <li>Several other company-specific business services</li>
@@ -148,7 +148,7 @@
     <td colspan="2">
       <ul>
         <li>Functioned as a full-stack developer, handling frontend and backend tasks</li>
-        <li>Implemented primarily business services in Golang, leveraging tools such as: PostgreSQL, RabbitMQ, Redis, Docker Swarm</li>
+        <li>Implemented primarily business services in Golang, leveraging tools such as PostgreSQL, RabbitMQ, Redis, Docker Swarm</li>
       </ul>
       <i>Skills</i>: Full-Stack Development • Go • RabbitMQ
     </td>
