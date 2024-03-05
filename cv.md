@@ -1,6 +1,6 @@
 # <div style="text-align: center; line-height: 0%; font-size: 12px">Mikhail Morgoev</div>
 
-<div style="line-height: 0%; font-size: 9.75px; margin-bottom: -5px; margin-top: -5px"><center> Berlin, Germany | <a href=https://linkedin.com/in/morgoevm>LinkedIn</a> | <a href=https://github.com/zerospiel>Github</a> | Phone: 01234-567-89-00 | Email: <a href=mailto:morgoevm@gmail.com>morgoevm@gmail.com</a> </center></div>
+<div style="line-height: 0%; font-size: 9.75px; margin-bottom: -5px; margin-top: -5px"><center> Berlin, Germany | <a href=https://linkedin.com/in/morgenmg>LinkedIn</a> | <a href=https://github.com/zerospiel>Github</a> | Phone: 01234-567-89-00 | Email: <a href=mailto:mmorgen@posteo.de>mmorgen@posteo.de</a> </center></div>
 
 ## <div style="text-align: center; line-height: 0%; font-size: 12px">Work Experience</div>
 
@@ -26,10 +26,13 @@
     <td colspan="2">
       <ul>
         <li>Designed architecture components for Mirantis Container Cloud (OpenStack, vSphere, bare metal providers)</li>
-        <li>Developed Kubernetes controllers to enhance deployment efficiency and deliver new features</li>
-        <li>Collaborated closely with designers and frontend engineers to ensure a seamless user experience</li>
-        <li>Conducted comprehensive testing (from unit to end-to-end) to validate functionality</li>
-        <li>Refactored code and instrumentation to increase the efficiency of development processes</li>
+          <ul>
+            <li>Developed a new approach for bootstrapping clusters by new clients via UI, pruning all-in-one black box error intolerant approach, which increased simplicity by more than 3 times</li>
+            <li>Designed and implemented a new feature allowing customers to manage Day 2 operations on clusters without manual interactions with nodes</li>
+          </ul>
+        <li>Collaborated closely with designers and frontend engineers to provide a seamless user experience</li>
+        <li>Implemented comprehensive testing (from unit to end-to-end) to validate functionality, which ensured zero bugs during product acceptance and release cycles</li>
+        <li>Refactored existing code and instrumentation and removed all comprehends during the development process</li>
       </ul>
       <i>Skills</i>: Cloud Development • Cloud Applications • Go • Kubernetes
     </td>
@@ -168,7 +171,7 @@
   </tr>
   <tr style="border-bottom-style: hidden">
     <td style="font-style: italic; padding-bottom: 0px; padding-top: 0px">
-      Bachelor of Science in Computer Science
+      Bachelor of Science in Computer Science (GPA: 4.8)
     </td>
     <td style="text-align: right; font-style: italic; padding-bottom: 0px; padding-top: 0px">
       Sep 2010 - Jul 2014
@@ -180,7 +183,6 @@
         <li>Faculty of mathematics, mechanics and computer science</li>
         <li>Thesis «Automatization of managing LXC containers in GNU/Linux»</li>
         <li>Completed coursework in data structures, algorithms, and automata theory</li>
-        <li>GPA 4.8</li>
       </ul>
     </td>
   </tr>
@@ -195,11 +197,8 @@
   <tr style="border-bottom-style: hidden">
     <td colspan="2">
       <ul>
-        <li>Introduction to Computer Networks (completed)</li>
-        <li>Developing web-services in Golang I, II (completed)</li>
-        <li>Cryptography I</li>
-        <li>Data structures and Algorithms</li>
-        <li>Algorithms</li>
+        <li>Completed: Introduction to Computer Networks (completed); Developing web-services in Golang I, II</li>
+        <li>Incompleted: Data structures and Algorithms (UC San Diego); Algorithms I (Princeton University)</li>
       </ul>
     </td>
   </tr>
@@ -209,6 +208,6 @@
 
 <div style="line-height: normal; font-size: 9.75px">
 
-- Languages: English (full professional proficiency/B2), German (elementary/A2), Russian (native/C2), 日本語 (elementary/A1)
+- Languages: English (full professional proficiency/B2), German (elementary/A2), Russian (native/C2)
 
 </div>
