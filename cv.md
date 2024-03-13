@@ -1,6 +1,6 @@
 # <div style="text-align: center; line-height: 0%; font-size: 12px">Mikhail Morgoev</div>
 
-<div style="line-height: 0%; font-size: 9.75px; margin-bottom: -5px; margin-top: -5px"><center> Berlin, Germany | <a href=https://linkedin.com/in/morgenmg>LinkedIn</a> | <a href=https://github.com/zerospiel>Github</a> | Phone: 01234-567-89-00 | Email: <a href=mailto:mmorgen@posteo.de>mmorgen@posteo.de</a> </center></div>
+<div style="line-height: 0%; font-size: 9.75px; margin-bottom: -5px; margin-top: -5px"><center> Berlin, Germany | <a href=https://linkedin.com/in/morgenmg>LinkedIn</a> | <a href=https://github.com/zerospiel>Github</a> | Phone: 01234-567-89-01 | Email: <a href=mailto:mmorgen@posteo.de>mmorgen@posteo.de</a> </center></div>
 
 ## <div style="text-align: center; line-height: 0%; font-size: 12px">Work Experience</div>
 
@@ -25,10 +25,10 @@
   <tr">
     <td colspan="2">
       <ul>
-        <li>Designed architecture components for Mirantis Container Cloud (OpenStack, vSphere, bare metal providers)</li>
+        <li>Designed architecture components for Mirantis Container Cloud (Bare Metal, OpenStack, vSphere providers)</li>
           <ul>
             <li>Developed a new approach for bootstrapping clusters by new clients via UI, pruning all-in-one black box error intolerant approach, which increased simplicity by more than 3 times</li>
-            <li>Designed and implemented a new feature allowing customers to manage Day 2 operations on clusters without manual interactions with nodes</li>
+            <li>Designed and implemented a new feature allowing customers to manage Day 2 operations on an arbitrary number of nodes with no manual interactions</li>
           </ul>
         <li>Collaborated closely with designers and frontend engineers to provide a seamless user experience</li>
         <li>Implemented comprehensive testing (from unit to end-to-end) to validate functionality, which ensured zero bugs during product acceptance and release cycles</li>
@@ -183,22 +183,6 @@
         <li>Faculty of mathematics, mechanics and computer science</li>
         <li>Thesis «Automatization of managing LXC containers in GNU/Linux»</li>
         <li>Completed coursework in data structures, algorithms, and automata theory</li>
-      </ul>
-    </td>
-  </tr>
-  <tr style="border-bottom-style: hidden">
-    <td style="font-weight: bold; padding-bottom: 0px; padding-top: 0px">
-      Coursera
-    </td>
-    <td style="text-align: right; font-weight: bold; padding-bottom: 0px; padding-top: 0px">
-      Online
-    </td>
-  </tr>
-  <tr style="border-bottom-style: hidden">
-    <td colspan="2">
-      <ul>
-        <li>Completed: Introduction to Computer Networks (completed); Developing web-services in Golang I, II</li>
-        <li>Incompleted: Data structures and Algorithms (UC San Diego); Algorithms I (Princeton University)</li>
       </ul>
     </td>
   </tr>
