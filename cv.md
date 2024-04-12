@@ -1,4 +1,4 @@
-# <div style="text-align: center; line-height: 0%; font-size: 12px">Mikhail Morgoev</div>
+# <div style="text-align: center; line-height: 0%; font-size: 12px">Michael Morgen</div>
 
 <div style="line-height: 0%; font-size: 9.75px; margin-bottom: -5px; margin-top: -5px"><center> Berlin, Germany | <a href=https://linkedin.com/in/morgenmg>LinkedIn</a> | <a href=https://github.com/zerospiel>Github</a> | Phone: 01234-567-89-01 | Email: <a href=mailto:mmorgen@posteo.de>mmorgen@posteo.de</a> </center></div>
 
