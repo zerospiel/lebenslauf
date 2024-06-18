@@ -171,7 +171,7 @@
   </tr>
   <tr style="border-bottom-style: hidden">
     <td style="font-style: italic; padding-bottom: 0px; padding-top: 0px">
-      Bachelor of Science in Computer Science (GPA: 4.8)
+      Bachelor of Science in Computer Science (GPA: 4.8/5.0)
     </td>
     <td style="text-align: right; font-style: italic; padding-bottom: 0px; padding-top: 0px">
       Sep 2010 - Jul 2014
@@ -192,6 +192,6 @@
 
 <div style="line-height: normal; font-size: 9.75px">
 
-- Languages: English (full professional proficiency/B2), German (elementary/A2), Russian (native/C2)
+- Languages: English (full professional proficiency/B2), German (partial professional proficiency/B1), Russian (native/C2)
 
 </div>
