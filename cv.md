@@ -25,16 +25,19 @@
   <tr">
     <td colspan="2">
       <ul>
+        <li>Engineering an <a href=https://github.com/K0rdent/kcm>Open Source Software project</a> for managing Kubernetes clusters in multi-cloud environment</li>
         <li>Designed architecture components for Mirantis Container Cloud (Bare Metal, OpenStack, vSphere providers)</li>
           <ul>
             <li>Developed a new approach for bootstrapping clusters by new clients via UI, pruning all-in-one black box error intolerant approach, which increased simplicity by more than 3 times</li>
             <li>Designed and implemented a new feature allowing customers to manage Day 2 operations on an arbitrary number of nodes with no manual interactions</li>
           </ul>
         <li>Collaborated closely with designers and frontend engineers to provide a seamless user experience</li>
-        <li>Implemented comprehensive testing (from unit to end-to-end) to validate functionality, which ensured zero bugs during product acceptance and release cycles</li>
-        <li>Refactored existing code and instrumentation and removed all comprehends during the development process</li>
+        <li>Implemented comprehensive testing (from unit to end-to-end) to validate the functionality of dozens of controllers during product acceptance and release cycles</li>
+        <li>Refactored existing code and instrumentation and removing comprehends during the development process</li>
+        <br></br>
+Primarily work with Go, Kubernetes, different cloud providers, and some extra tools and technologies like Python, JS, and Jenkins
       </ul>
-      <i>Skills</i>: Cloud Development • Cloud Applications • Go • Kubernetes
+      <i>Skills</i>: Go • Kubernetes • Cloud Development • Cloud Applications
     </td>
   </tr>
   <!-- sbertech -->
